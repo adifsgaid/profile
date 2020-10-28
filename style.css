@@ -7,7 +7,7 @@ body {
 }
  .container {
     margin: 40px auto 40px auto;
-    width:700px;
+    width: 600px;
 }
 .img-circle{
   border-radius: 50%;
